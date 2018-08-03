@@ -1,3 +1,5 @@
+Copied from Infinity Server, swginfinity.com
+
 # SWGInfinity
 
 project operated by QRAVE
