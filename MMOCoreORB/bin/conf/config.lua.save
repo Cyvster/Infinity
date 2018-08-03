@@ -99,7 +99,7 @@ ZonesEnabled = {
 	"creature_test",
 	"dantooine",
 	"dathomir",
-	"dungeon1",
+	--"dungeon1",
 	"endor",
 	--"endor_asommers",
 	--"floratest",
@@ -111,23 +111,23 @@ ZonesEnabled = {
 	"rori",
 	--"runtimerules",
 	--"simple",
-	"space_09",
-	"space_corellia",
-	"space_corellia_2",
-	"space_dantooine",
-	"space_dathomir",
-	"space_endor",
-	"space_env",
-	"space_halos",
-	"space_heavy1",
-	"space_light1",
-	"space_lok",
-	"space_naboo",
-	"space_naboo_2",
-	"space_tatooine",
-	"space_tatooine_2",
-	"space_yavin4",
-	"taanab",
+	--"space_09",
+	--"space_corellia",
+	--"space_corellia_2",
+	--"space_dantooine",
+	--"space_dathomir",
+	--"space_endor",
+	--"space_env",
+	--"space_halos",
+	--"space_heavy1",
+	--"space_light1",
+	--"space_lok",
+	--"space_naboo",
+	--"space_naboo_2",
+	--"space_tatooine",
+	--"space_tatooine_2",
+	--"space_yavin4",
+	--"taanab",
 	"talus",
 	"tatooine",
 	--"test_wearables",
@@ -206,7 +206,7 @@ WebPorts = 44460 -- Can be multiple ports 44460,44461
 WebAccessLog = "../log/webaccess.log"
 WebErrorLog = "../log/weberror.log"
 WebSessionTimeout = 600 -- Length that inactive web sessions expire
-
+þ
 PurgeDeletedCharacters = 10 --How often in minutes to purge deleted characters
 MaxNavMeshJobs = 6
 DumpObjFiles = 1
